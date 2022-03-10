@@ -1,0 +1,24 @@
+.icone img{
+    padding:2%;
+}
+.check p{
+    padding-top:3%;
+}
+#logo{
+    margin-top:40%;
+}
+#barre{
+    margin-top:-40%;
+}
+.row{
+    width:100%;
+}
+#cercle{
+    width:20%;
+    padding-left:47%;
+    padding-top:5%;
+    padding-bottom:3%;
+}
+#nom{
+    color:#3d9f96;
+}
